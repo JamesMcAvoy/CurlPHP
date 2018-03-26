@@ -1,0 +1,12 @@
+{
+    "name": "lordarryn/curlphp",
+    "description": "Send easier PHP curl requests",
+    "type": "library",
+    "license": "Apache-2",
+    "autoload": {
+        "psr-4": {
+            "CurlPHP\\": "src"
+		}
+	},
+    "require": {}
+}
