@@ -1,5 +1,5 @@
 # curlPHP
-PHP class for cURL
+PHP class for cURL<br />
 Send HTTP requests
 
 ### Installation
