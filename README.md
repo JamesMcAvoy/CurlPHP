@@ -10,7 +10,9 @@ composer require lordarryn/curlphp
 ### Example :
 ```PHP
 <?php
-require 'Curl.php';
+use CurlPHP\CurlPHP as Curl;
+
+require __DIR__.'/vendor/autoload.php';
 
 $app = new Curl('google.com');
 
