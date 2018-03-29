@@ -6,7 +6,6 @@
  * @package CurlPHP
  */
 namespace CurlPHP;
-use CurlPHP\CurlException;
  
 class CurlPHP {
 
